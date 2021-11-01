@@ -13,5 +13,5 @@ spec:
         name: petal-homework
         namespace: flux-system
       interval: 1m
-  interval: 5m0s
+  interval: 6m0s
 
